@@ -1,16 +1,64 @@
-### Hi there 👋
+Faaaala Rei🤴🏻, <b><i>Wagner</i></b> Aqui! 👋
 
-<!--
-**Wagnerffadm/wagnerffadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🚀 <i>Olá! Sou alguém que adora enfrentar grandes desafios com a ajuda da tecnologia. Meu coração bate mais forte quando estou resolvendo problemas complexos e transformando ideias em realidade por meio do desenvolvimento web.
 
-Here are some ideas to get you started:
+💻 Do front-end, meu caminho tem sido pavimentado com linhas de código que constroem experiências incríveis. Especialmente apaixonado pelo desenvolvimento front end com JavaScript, encontro prazer em criar interfaces interativas e responsivas que cativam os usuários.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 A busca pelo desconhecido é o que me impulsiona. Sempre estou explorando novas tecnologias, conceitos e abordagens. Acredito que cada desafio traz consigo uma oportunidade de aprendizado e crescimento, e essa mentalidade me mantém em constante evolução.
+
+💡 Atualmente, estou no ponto da minha jornada em que posso me considerar um desenvolvedor de nível júnior. Com uma base sólida em desenvolvimento web, estou determinado a aprimorar minhas habilidades, expandir minha compreensão técnica e contribuir para projetos que tenham um impacto significativo.</i>
+
+🌟 <b>Se você está buscando alguém que abraça desafios de braços abertos, está comprometido com a excelência e tem uma paixão incessante pela tecnologia, estou pronto para colaborar e criar soluções de alta qualidade juntos.</b>
+
+Vamos construir o futuro, linha de código por linha de código!
+
+Conecte-se comigo e vamos explorar as possibilidades juntos.
+
+#TechEnthusiast   #FrontEndDeveloper </p>&nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+ </div>
+ 
+
+## My Skills
+
+#### Main Stack:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;         
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Studying in this moment:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+
+#### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=yellow)&nbsp;
+
+&nbsp;
+
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/wagnerffadm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:wagnerffadm@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wagnerffadm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  ></a> 
+<a href="https://www.facebook.com/wagnerffadm" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white" ></a> 
+
+
+</div>&nbsp;&nbsp;
+ 
+
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
