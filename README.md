@@ -1,6 +1,10 @@
-Faaaala Rei🤴🏻, <b><i>Wagner</i></b> Aqui! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=be55fa&animation=twinkling"/>
 
- 🚀 <i>Olá! Sou alguém que adora enfrentar grandes desafios com a ajuda da tecnologia. Meu coração bate mais forte quando estou resolvendo problemas complexos e transformando ideias em realidade por meio do desenvolvimento web.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e5c430&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORD!+🌏+Meu+nome+é+Wagner+Ferreira.;Eu+estou+estudando+Java+no+Entra21!🖥️+;Graduado+em+Processos+Gerenciais+na+Uniasselvi;Bem-vindos!+:%29)](https://git.io/typing-svg)
+
+&nbsp;
+
+ 🚀 <i>Hey! Sou alguém que adora enfrentar grandes desafios com a ajuda da tecnologia. Meu coração bate mais forte quando estou resolvendo problemas complexos e transformando ideias em realidade por meio do desenvolvimento web.
 
 💻 Do front-end, meu caminho tem sido pavimentado com linhas de código que constroem experiências incríveis. Especialmente apaixonado pelo desenvolvimento front end com JavaScript, encontro prazer em criar interfaces interativas e responsivas que cativam os usuários.
 
@@ -52,11 +56,10 @@ Conecte-se comigo e vamos explorar as possibilidades juntos.
 
 &nbsp;
 
-## Contacts:
+## Redes:
 
 <div> 
-<a href="https://www.instagram.com/wagnerffadm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
+<a href="https://www.instagram.com/wagnerffadm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:wagnerffadm@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wagnerffadm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  ></a> 
 
@@ -66,4 +69,4 @@ Conecte-se comigo e vamos explorar as possibilidades juntos.
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&fontColor=be55fa&animation=twinkling"/>
