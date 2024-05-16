@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=be55fa&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9900ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORD!+🌏+Meu+nome+é+Wagner+Ferreira.;Estudante+em+Java!🖥️+;Graduado+em+Processos+Gerenciais+na+Uniasselvi;Bem-vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9900ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORD!+🌏+Meu+nome+é+Wagner+Ferreira.;Estudante+em+Java!+;Graduado+em+Processos+Gerenciais+na+Uniasselvi+;Estudante+de+Análise+e+Desenvolvimento+🖥️;Bem-vindos!+:%29)](https://git.io/typing-svg)
 
 &nbsp;
 
- 🚀 <i>Hey! Sou alguém que adora enfrentar grandes desafios com a ajuda da tecnologia. Meu coração bate mais forte quando estou resolvendo problemas complexos e transformando ideias em realidade por meio do desenvolvimento web.
+ 🚀 <i>Hey! Sou alguém que adora enfrentar grandes desafios com a ajuda da tecnologia. Meu coração bate mais forte quando estou resolvendo problemas complexos e transformando ideias em realidade por meio do desenvolvimento web. Entretando estou buscando o Back-End com foco final.
 
 💻 Do front-end, meu caminho tem sido pavimentado com linhas de código que constroem experiências incríveis. Especialmente apaixonado pelo desenvolvimento front end com JavaScript, encontro prazer em criar interfaces interativas e responsivas que cativam os usuários.
 
